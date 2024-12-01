@@ -27,10 +27,13 @@ export interface CardWeight {
 }
 
 export interface BaseStatus {
+    id:string;
     baseValue: number;
     minValue: number;
     maxValue: number;
     // 每15分钟变化率
     changeWhen15Minutes: number;
     phases: Phase[];
+    name?: string;
+    description?: string;
 }

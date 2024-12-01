@@ -1,5 +1,13 @@
-# Vue 3 + TypeScript + Vite
+# 卡牌生存复刻
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## 玩法
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+地点：探索->获得卡片
+
+配方：通过生存手册进行学习解锁->合成
+
+## 配方
+
+石刀：石头+石头 耗时
+
+## 物品
